@@ -8,6 +8,11 @@
 
 テーマ・カテゴリ別に整理したリポジトリ一覧ポータルです。
 
+### 💡 Idea & Quick Capture (アイデア帳)
+| Repository | Description | Status |
+| :--- | :--- | :--- |
+| [**`idea-vault`**](https://github.com/miyayudai/idea-vault) | 企画・技術検証・着想メモと課題集約 (スマホからIssueで即時キャプチャ) | `Active` |
+
 ### 🎮 Game Development
 | Repository | Description | Status |
 | :--- | :--- | :--- |
