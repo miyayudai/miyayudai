@@ -1,4 +1,4 @@
-# Hi there, I'm Yudai Miyachi 👋
+# Hi there👋
 
 ロボティクス、強化学習・深層学習、ゲーム開発、自律制御システムの研究開発を行っています。
 
@@ -46,7 +46,7 @@
 | [**`tool-pptx-master`**](https://github.com/miyayudai/tool-pptx-master) | PowerPoint自動化・スライド生成スクリプト | `Active` |
 | [**`lib-c-common`**](https://github.com/miyayudai/lib-c-common) | C/C++ 共通ライブラリ・ユーティリティ | `Active` |
 
-### 🤖 Agent Workspace
+### 👨‍💻 Agent Workspace
 | Repository | Description | Status |
 | :--- | :--- | :--- |
 | [**`agent-docs`**](https://github.com/miyayudai/agent-docs) | AIエージェント用ドキュメント・知識ベース集約リポジトリ | `Active` |
