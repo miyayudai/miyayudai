@@ -21,7 +21,7 @@
 ### 🧠 AI & Paper Implementations
 | Repository | Description | Status |
 | :--- | :--- | :--- |
-| [**`paper-ai-collection-impl`**](https://github.com/miyayudai/paper-ai-collection-impl) | 最新AI論文46手法のPython実装 (NeRF, Mamba, Diffusion, KAN, etc.) | `Active` |
+| [**`paper-ai-collection-impl`**](https://github.com/miyayudai/paper-ai-collection-impl) | 論文手法のPython実装 (NeRF, Mamba, Diffusion, KAN, etc.) | `Active` |
 | [**`paper-local-llm-impl`**](https://github.com/miyayudai/paper-local-llm-impl) | ローカルLLM推論・量子化の実験検証 | `Active` |
 
 ### 📚 Textbooks & Study (教科書・学習・写経)
