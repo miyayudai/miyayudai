@@ -16,6 +16,7 @@
 ### 🎮 Game Development
 | Repository | Description | Status |
 | :--- | :--- | :--- |
+| [**`game-life-sim`**](https://github.com/miyayudai/game-life-sim) | お金と人生幸福度をテーマにした人生シミュレーション・ゲーム | `Active` |
 | [**`game-auf`**](https://github.com/miyayudai/game-auf) | ファミリーフィッシング・リメイク開発 (Unreal Engine) | `Active` |
 
 ### 🤖 Robotics & Simulation
@@ -32,6 +33,7 @@
 ### 📚 Textbooks & Study (教科書・学習・写経)
 | Repository | Description | Status |
 | :--- | :--- | :--- |
+| [**`study-mikanos`**](https://github.com/miyayudai/study-mikanos) | 『ゼロからのOS自作入門 (MikanOS)』完全自己完結・理論解説＆C++/Python検証 | `Active` |
 | [**`study-cpp-tutorial`**](https://github.com/miyayudai/study-cpp-tutorial) | 『Modern C++ Tutorial』実践学習 (C++11/14/17/20, Docker) | `Active` |
 | [**`study-reinforcement-learning`**](https://github.com/miyayudai/study-reinforcement-learning) | Sutton & Barto『強化学習 第2版』理論・アルゴリズム検証 | `Active` |
 | [**`study-docker-containers`**](https://github.com/miyayudai/study-docker-containers) | Docker公式マルチコンテナWebアプリ写経検証 | `Active` |
